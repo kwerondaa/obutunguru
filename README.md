@@ -1,5 +1,4 @@
-# freshkatale
-
+# Learning Git
 A new Flutter application.
 
 ## Getting Started
