@@ -5,8 +5,11 @@ class Guest {
 }
 
 final guests = [
-  Guest('images/user.JPG'),
-  Guest('images/user.JPG'),
-  Guest('images/user.JPG'),
-  Guest('images/user.JPG'),
+  Guest('images/user.jpg'),
+  Guest('images/user.jpg'),
+  Guest('images/user.jpg'),
+  Guest('images/user.jpg'),
+  Guest('images/user.jpg'),
+  Guest('images/user.jpg'),
+  Guest('images/user.jpg'),
 ];

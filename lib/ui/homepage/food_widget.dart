@@ -2,7 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:freshkatale/styleguide.dart';
 import 'package:freshkatale/ui/food_details/food.dart';
-import 'package:freshkatale/ui/food_details/food.dart';
 
 class FoodWidget extends StatelessWidget {
   final Food food;
